@@ -1,0 +1,5 @@
+name: PerfectPartySystem
+version: '${project.version}'
+main: hotfies.perfectpartysystem.PerfectPartySystem
+author: Dem1ch, Aneras
+description: A plugin to manage parties

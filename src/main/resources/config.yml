@@ -1,0 +1,15 @@
+database:
+  host: localhost
+  port: 3306
+  name: minecraft
+  username: root
+  password: root
+exclude_servers:
+  - Lobby1
+  - Lobby2
+server_slots:
+  Lobby1: 100
+  Lobby2: 50
+  BW_Beach: 16
+  hot_lobby_1: 75
+reconnectTime: 60
